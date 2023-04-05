@@ -1,5 +1,5 @@
 # MecEngDC
-Echanical engineering design calculator
+
 This program has been compiled with the intention of providing a quick reference tool for all those interested in
 machine design.
 
